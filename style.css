@@ -1,0 +1,46 @@
+.container{
+    height:260px;
+    width:340px;
+    display: inline-block;
+    box-sizing: border-box;
+    /* border: 1px solid gray; */
+    
+   
+   
+}
+img{
+    height:140px;
+    width: 140px;
+    margin-left: 90px;
+}
+
+.headingMongoDb{
+    background-color: green;
+    color: white;
+font-family: 'Poppins', sans-serif;
+
+}
+.headingPara{
+    text-align: center;
+    padding: 5px;
+}
+.text_content{
+    text-align: center;
+display: inline-block;
+}
+
+#text{
+    margin-top: 0px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.headingMuSql{
+background-color: orange;
+color:white;
+font-family: 'Poppins', sans-serif;
+/* font-family: 'Roboto', sans-serif; */
+}
+
